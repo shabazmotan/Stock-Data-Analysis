@@ -1,4 +1,5 @@
-Purpose was to analyze multiple years of stock data using VBA-Excel. I created a script that loops through all the stocks for one year and outputs the following information:
+Purpose was to analyze multiple years of stock data using VBA-Excel. Created a script from stock data in years 2018 to 2020 analyzing yearly change in price, percentage change, and total volume. Also, calculated greatest percent increase and decrease and greatest total volume and displayed in output
+
  -The ticker symbol
  -Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
  -The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
