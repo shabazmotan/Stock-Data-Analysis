@@ -1,4 +1,4 @@
-Purpose was too analyze multiple years of stock data using VBA-Excel. I created a script that loops through all the stocks for one year and outputs the following information:
+Purpose was to analyze multiple years of stock data using VBA-Excel. I created a script that loops through all the stocks for one year and outputs the following information:
  -The ticker symbol
  -Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
  -The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
@@ -10,3 +10,4 @@ In addition, I also added functionality to script to return the stock with the "
 ![image](https://user-images.githubusercontent.com/119978382/217463100-6f1fc16b-b219-467f-9841-2c663432ba18.png)
 
 ![image](https://user-images.githubusercontent.com/119978382/217463629-ab3fc693-00da-4869-a0f4-be5103019ca8.png)
+
