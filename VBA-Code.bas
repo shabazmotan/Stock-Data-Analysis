@@ -1,8 +1,6 @@
 Attribute VB_Name = "Module1"
 Sub stocks()
 
-    ' Credit
-    ' Instructor Eli Rosenberg tutored a group of us with starter code
     
     Dim lastrow As Long
     Dim i As Long
