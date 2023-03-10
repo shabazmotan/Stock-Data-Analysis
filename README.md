@@ -1,3 +1,5 @@
+# Summary 
+
 Analyzed multiple years of stock data using VBA-Excel. Created a script from stock data in years 2018 to 2020 analyzing yearly change in price, percentage change, and total volume. Each year includes the following information:
 
     -The ticker symbol
